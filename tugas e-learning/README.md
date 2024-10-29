@@ -1,0 +1,9 @@
+Bootstrap adalah framework berbasis CSS yang membantu pengembang dalam membuat desain web responsif dan konsisten. Framework ini dirancang untuk memudahkan pembuatan elemen-elemen UI seperti tombol, form, navbar, dan layout grid dengan struktur HTML yang sederhana dan mudah diintegrasikan. Versi Bootstrap 4 memperkenalkan sistem grid yang lebih fleksibel berbasis Flexbox, kelas utilitas untuk responsivitas yang lebih baik, dan kustomisasi melalui variabel SASS, memungkinkan penyesuaian tema.
+
+Bootstrap 4 berfokus pada komponen utama berikut:
+Sistem Grid: Dengan sistem grid 12 kolom berbasis Flexbox, Bootstrap memungkinkan tata letak responsif yang otomatis menyesuaikan di berbagai ukuran layar (mobile, tablet, desktop). Grid ini fleksibel dan memungkinkan pembagian konten yang efisien. 
+Komponen Siap Pakai: Bootstrap menyediakan elemen HTML yang sudah distilasi, seperti tombol, form, badge, alert, card, dan navbar, yang mendukung desain modern. Setiap komponen ini memiliki opsi penyesuaian yang luas.
+Responsivitas: Dengan kelas CSS bawaan seperti .col-sm-, .col-md-, dan lainnya, pengembang dapat menentukan aturan untuk berbagai ukuran perangkat, sehingga konten tampil optimal di perangkat apapun.
+Kustomisasi melalui Variabel SASS: Bootstrap 4 mendukung kustomisasi mendalam menggunakan SASS, yang memungkinkan pengembang mengubah warna, ukuran font, dan berbagai aspek lain melalui variabel. Ini memberikan fleksibilitas tinggi untuk menyesuaikan desain sesuai kebutuhan proyek.
+JavaScript Plugin: Bootstrap juga memiliki beberapa plugin JavaScript yang mudah diimplementasikan untuk menambah interaktivitas, seperti modals, dropdown, tooltips, dan carousel, yang semua responsif dan mudah disesuaikan.
+Untuk pemula, situs W3Schools dan PetaNIKode menawarkan tutorial dasar yang baik untuk memulai menggunakan Bootstrap dalam proyek website.
